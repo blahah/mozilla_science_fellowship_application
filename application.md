@@ -34,7 +34,16 @@ We are fuelled by cake and driven by humanitarianism. We have families and lives
 
 Dear Mozilla Science Lab,
 
-...
+We belong together.
+
+Like Mozilla, I represent openness in everything I do. Like the Mozilla Science Lab, I have a proven track record of building communities and tools that make science more open and accessible.
+
+Over the last three years I have carefully studied how to shift research practise to be more collaborative, iterative and open. My work on Solvers.io - a sister to Mozilla Science's Collaborate - taught me that non-scientists love science and want to help. On the ContentMine project I've learned to listen to researchers. Hundreds of frustrated scientists told us how they want to mine the scientific literature but are scared of publishers, so we built tools and resources to help them do it efficiently and safely. I've sought every opportunity to develop and deliver training so that I can get better at helping people learn. Within Cambridge and worldwide I have built a network of collaborators who inspire and support me. I have successfully challenged the closed culture of science and changed working practise in my lab and beyond.
+
+The Mozilla Fellowship in Science is a perfect fit for me, and for Cambridge. With our combined experiences, resources and determination we will create dramatic and lasting change in Cambridge and in the global science community.
+
+Yours,
+Richard Smith-Unna
 
 
 ### Upload your resume
