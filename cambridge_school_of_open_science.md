@@ -32,6 +32,14 @@ Importantly, the School would provide a template that could be replicated in oth
 
 Within Cambridge, the school would also serve as a focal point for forming partnerships that increase the visibility of, and institutional commitment to, open science.
 
+Related standalone goals:
+  - get open science mentioned in the application process, prospectus, department websites, etc. (based on idea from Greg Wilson)
+
+People who have agreed to be on the advisory board:
+  - Vicky Schneider
+  - Titus Brown
+  - Peter Murray-Rust
+
 ## Short version:
 
 Cambridge is a city of open people and organisations. The energy of its graduate students is incredible. When they care about something, the whole University cares. I will implement a new training program to excite biology graduate students about open science. The program will bring together the local open science community to create and deliver material. It will unite the community to drive political change. I will cultivate support within the university to keep the program sustained in the long term. The curriculum, materials and strategy will be packaged as an open template that can be implemented at other universities.
