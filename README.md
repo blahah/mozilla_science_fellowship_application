@@ -1,5 +1,7 @@
 # mozilla_science_fellowship_application
 
+**UPDATE:** I got the fellowship! See [the announcement](https://www.mozillascience.org/announcing-our-2015-mozilla-fellows-for-science), and you can follow what I'm working on at [my fellowship repo](http://github.com/blahah/mozilla_science_fellowship).
+
 My application to the [Mozilla Science Fellowship](https://www.mozillascience.org/fellows), 2015
 
 Contents:
@@ -10,3 +12,5 @@ Contents:
 
 
 Thanks to Steph Smith-Unna, Titus Brown and Peter Murray-Rust for advice and feedback on my application.
+
+
